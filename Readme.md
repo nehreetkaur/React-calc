@@ -34,7 +34,7 @@ fundamental skills.
 In my **arithmetic** calculator ,User can do all kinds
 of arithmetic calculations very easily.This application is 
 very user friendly and have buttons to clear the output 
-and also reset to 0.While making this application, I had solid understanding of useState hook and I have better understanding in using this hook. Also, practice  my React basic skills.
+and also reset to 0.While making this application, I had solid understanding of useState hook and  have better understanding in using this hook. Also, practice  my React basic skills.
 
 
 # INSTALLATION
